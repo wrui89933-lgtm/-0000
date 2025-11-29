@@ -1,0 +1,7 @@
+{
+  "name": "云外“笔下欢喜”入门大闯关",
+  "description": "An interactive gamified journey through Chinese painting techniques. Master the brush, ink, and colors on a virtual board to reveal a masterpiece.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
